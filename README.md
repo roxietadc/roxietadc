@@ -1,1 +1,1 @@
-![Gangle Image](gangle.jpeg)
+<img src="gangle.jpeg" alt="Gangle Image" width="600">

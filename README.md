@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="gangle.jpeg" alt="Gangle Image" width="800">
+  <img src="gangle.jpeg" alt="Gangle Image" width="600">
 </p>
